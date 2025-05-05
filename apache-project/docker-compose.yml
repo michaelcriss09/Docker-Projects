@@ -1,0 +1,12 @@
+version: '3'
+services:
+  ap1-container:
+    container_name: ap1-container
+    image: ap1-image
+    ports:
+      - "8080:80"
+  ap2-container:
+    container_name: ap2-container
+    image: ap2-image
+    ports:
+      - "8081:80"
