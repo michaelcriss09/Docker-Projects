@@ -8,7 +8,7 @@ Welcome to my Docker Projects repository! 🚀
 # Main Purpose
 Explore the different containerization scenarios in Docker 💻
 
-# Contents
+# Content
 - [Apache](#apache)
 - [NodeJS](#nodejs)
 - [Python](#python)
