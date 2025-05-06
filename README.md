@@ -6,7 +6,7 @@
 Welcome to my Docker Projects repository! 🚀 
 
 # Main Purpose
-Exploring the different containerization scenarios in Docker. Playing around with Docker personaized images and Docker-Compose practices.🐳
+Exploring the different containerization scenarios in Docker. Playing around with Docker customized images and Docker-Compose practices.🐳
 
 
 # Content
