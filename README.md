@@ -6,7 +6,8 @@
 Welcome to my Docker Projects repository! 🚀 
 
 # Main Purpose
-Explore the different containerization scenarios in Docker 💻
+Exploring the different containerization scenarios in Docker. Playing around with Docker personaized images and Docker-Compose practices.🐳
+
 
 # Content
 - [Apache](#apache)
@@ -15,8 +16,8 @@ Explore the different containerization scenarios in Docker 💻
 
 
 ## Apache
-- Purpose (1/2): Containerized static website throught | 1st Method.
-- Purpose (2/2): Containerized static website throught | 2nd Mehod. 
+- Purpose (1/2): Containerized static website | 1st Method.
+- Purpose (2/2): Containerized static website | 2nd Mehod. 
 
 ## NodeJS
 - Purpose: Containerized basic web application.
