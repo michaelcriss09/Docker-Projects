@@ -1,0 +1,6 @@
+dnspython  
+flask
+mysql-connector-python
+flask_wtf
+wtforms
+flask_mail
