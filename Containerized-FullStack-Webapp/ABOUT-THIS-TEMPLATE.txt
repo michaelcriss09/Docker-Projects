@@ -6,4 +6,4 @@ Https://github.com/MohdFarag/Dentistry-Department-Website.git
 created by MohdFara
 
 
-All credit for the original code goes to the author.
+All credit for the original web code goes to the author.
