@@ -6,4 +6,4 @@ https://github.com/rupertsworld/frontend-backend.git
 created by Rupert Parry
 
 
-All credit for the original code goes to the author.
+All credit for the original basic web app code goes to the author.
