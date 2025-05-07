@@ -26,10 +26,7 @@ Exploring the different containerization scenarios in Docker. Playing around wit
 ## Python
 - Purpose: Containerized basic web application.
 
-  ## Python
-- Purpose: Containerized basic web application.
-
-  ## MySQL and More
+## MySQL and More
 - Purpose: Containerized Full Stack web application.
 
 
