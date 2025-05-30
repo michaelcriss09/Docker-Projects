@@ -4,13 +4,13 @@ services:
     container_name: ap1-container
     build:
       context: .
-      dockerfile: apache-project-1/Docker/Dockerfile
+      dockerfile: apache-project-1/Dockerfile
     ports:
       - "8080:80"
   ap2-container:
     container_name: ap2-container
     build:
       context: .
-      dockerfile: apache-project-2/Docker/Dockerfile
+      dockerfile: apache-project-2/Dockerfile
     ports:
       - "8081:80"
